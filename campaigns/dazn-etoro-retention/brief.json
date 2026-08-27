@@ -1,0 +1,27 @@
+{
+  "campaign_id": "dazn-etoro-retention",
+  "campaign_name": "DAZN x etoro Germany Retention",
+  "task_name": "Acquire and retain German sport fans through a DAZN-led etoro journey",
+  "channels": ["email", "push_notification", "in_app_card"],
+  "background": "The first batch contains 7,000 users in Germany. DAZN is the acquisition hero; the etoro product journey must convert reward-led sign-ups into active, retained investors.",
+  "target_audience": "7,000 German sport fans, including users who may be new to investing and are not necessarily from a trading background.",
+  "key_message": "Join etoro for two months of DAZN, receive the qualifying first-deposit reward, and build an investing habit through a six-month sport-led journey.",
+  "call_to_action": "Join etoro and claim your DAZN benefit",
+  "kpi": ["qualifying registrations", "first deposits", "DAZN redemptions", "month-2 and month-6 active investors", "continued deposits", "recurring-investment adoption", "challenge completion", "post-offer retention"],
+  "references": [
+    "DAZN Germany plan and pricing page: https://www.dazn.com/de-DE/help/articles/16184063399709-dazn-plane-und-preise",
+    "etoro Germany recurring investments: https://www.etoro.com/de/investing/recurring/",
+    "etoro Germany CopyTrader: https://www.etoro.com/de/copytrader/"
+  ],
+  "sizes_and_specs": {"email": "Responsive HTML; German localisation required", "push_notification": "Short mobile notification copy", "in_app_card": "Persistent campaign progress card"},
+  "text_version_by_entity": {"etoro": "Use lowercase etoro in campaign-facing copy, pending brand/legal confirmation.", "dazn": "DAZN"},
+  "revisions": [],
+  "issues": [
+    "Confirm the exact DAZN plan, eligibility, redemption flow, duration, and partner terms.",
+    "Confirm whether the €20 first-deposit reward is an airdrop, cash credit, or another reward type.",
+    "The six-month 10% mechanic must be legally approved in Germany and described as promotional cashback/reward, not guaranteed investment performance.",
+    "Confirm whether the qualifying base is deposit amount, invested amount, or both; confirm cap, timing, reversals, and tax treatment.",
+    "Confirm German availability and approved positioning for fixed-income products and all promoted assets."
+  ],
+  "handoff": {"next": "segments-builder", "status": "planning-ready"}
+}
