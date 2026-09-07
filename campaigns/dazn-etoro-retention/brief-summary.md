@@ -19,6 +19,12 @@ The audience is sport-led, mobile-first, and likely mixed in investing confidenc
 
 Sport is the narrative thread: build a portfolio like a team, invest one matchday at a time, diversify beyond one player, and stay in the game for six months. These are metaphors, not promises of performance.
 
+## Final first version update
+
+The offer structure is confirmed for planning: DAZN is the hero; the post-signup €20 airdrop uses a choice of nine eligible stocks or ETFs; retention is a 10% bonus on qualifying monthly deposits for six months, capped at €500 and paid manually after the six-month calculation point. A 50% trading-commission discount and zero-commission ETF are additional benefits, subject to terms and approval. The campaign is urgent for users arriving by 30 September and excludes crypto and CFDs.
+
+Translated automation brief: because the user arrived through DAZN, they receive special benefits. They can invest €100 or more per month in eligible zero-commission ETFs using recurring investment, positioned as a set-and-forget habit, and receive a bonus equal to 10% of qualifying deposits after six months. Exact qualifying rules and approved German wording remain open.
+
 ## Journey and channels
 
 1. Acquisition email: DAZN hero, €20 reward secondary.
