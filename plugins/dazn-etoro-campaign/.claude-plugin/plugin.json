@@ -1,0 +1,13 @@
+{
+  "name": "dazn-etoro-campaign",
+  "displayName": "DAZN x etoro Germany Campaign",
+  "version": "1.0.0",
+  "description": "DAZN-led acquisition and six-month retention campaign targeting German sport fans. Covers campaign brief, message hierarchy, journey plan, channel specs, reward architecture, and compliance boundary.",
+  "author": {
+    "name": "eToro Marketing Automation",
+    "email": "drorav@etoro.com"
+  },
+  "homepage": "https://github.com/drorav-byte/etoro-dazn-partnership",
+  "repository": "https://github.com/drorav-byte/etoro-dazn-partnership",
+  "keywords": ["dazn", "etoro", "germany", "retention", "email", "campaign", "sfmc"]
+}
