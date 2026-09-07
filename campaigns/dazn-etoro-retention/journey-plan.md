@@ -65,6 +65,7 @@
 ### Localisation, audience test and workplan
 
 - Germany and Spain require separate offer panels, eligibility and legal treatment; Germany is the confirmed launch market in this version.
+- SFMC tracking metadata for this email: campaign `MarketCampaigns Marketing`; task ID `09072026`; task name `DAZNPartenershipE1` (preserve the supplied spelling).
 - Test freemium users against churned users with a defined control group.
 - Product panel: Dror, in progress; finalized notes and exact panel specification required, with a ready draft targeted for early next week.
 - Design: engaged Sunday to build from the panel and creative direction.
