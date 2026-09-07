@@ -17,6 +17,7 @@ All communications should use sport-related framing, including when explaining i
 - `campaigns/dazn-etoro-retention/journey-plan.md` - journey stages and email programme
 - `campaigns/dazn-etoro-retention/pr.md` - pull-request summary and review checklist
 - `campaigns/dazn-etoro-retention/DAZN-etoro-Germany-campaign-plan.docx` - collaborator-ready Word plan
+- `campaigns/dazn-etoro-retention/dazn-working-brandbook.md` - DAZN-first working brand guide and approval gates
 
 ## Review focus
 
