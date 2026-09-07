@@ -6,7 +6,10 @@
   "background": "The first batch contains 7,000 users in Germany. DAZN is the acquisition hero; the etoro product journey must convert reward-led sign-ups into active, retained investors.",
   "target_audience": "7,000 German sport fans, including users who may be new to investing and are not necessarily from a trading background.",
   "key_message": "Join etoro for two months of DAZN, receive the qualifying first-deposit reward, and build an investing habit through a six-month sport-led journey.",
-  "call_to_action": "Join etoro and claim your DAZN benefit",
+  "call_to_action": "Pick a stock & deposit",
+  "email_subject": "2 months of DAZN subscription with etoro",
+  "email_preheader": "Qualify for your DAZN benefit and a €20 first-deposit reward.",
+  "deposit_deep_link": "https://www.etoro.com/deposit",
   "kpi": ["qualifying registrations", "first deposits", "DAZN redemptions", "month-2 and month-6 active investors", "continued deposits", "recurring-investment adoption", "challenge completion", "post-offer retention"],
   "references": [
     "DAZN Germany plan and pricing page: https://www.dazn.com/de-DE/help/articles/16184063399709-dazn-plane-und-preise",
