@@ -1,0 +1,49 @@
+{
+  "generated_at_utc": "2026-09-24T10:54:31.691786+00:00",
+  "environment": "production",
+  "account_id": "500009133",
+  "source_file": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\DAZN-etoro-Germany-email-mockup-sendable.html",
+  "campaign_tag_name": "MarketCampaigns",
+  "tracking_campaign_group": "MarketCampaigns",
+  "tracking_campaign_subgroup": "Marketing",
+  "task_id": "09072026",
+  "task_name": "DAZNPartenershipE1",
+  "freeform_name": "09072026_DAZNPartenershipE1",
+  "controller_name": "09072026_DAZNPartenershipE1_email",
+  "native_content_sha256": "4fd2b6d229a4ec16681b50f7dca55e2f20810f2e557aa147233ad4426e2458c9",
+  "mutation_performed": false,
+  "campaign_tag_id": "755",
+  "campaign_tag_readback": {
+    "createdDate": "2022-07-11T07:19:35",
+    "modifiedDate": "2022-07-11T07:19:35",
+    "id": "755",
+    "name": "MarketCampaigns",
+    "description": "All financial market campaigns that are Marketing classification, like: New assets, Diversification, Earning Reports, IPO, etc...",
+    "campaignCode": "",
+    "color": "d7edad",
+    "favorite": false
+  },
+  "existing_content": {
+    "id": 419416,
+    "type": "codesnippetblock"
+  },
+  "existing_controller": {
+    "id": 419417,
+    "type": "htmlemail"
+  },
+  "existing_content_readback_sha256": "9f664bf09247d53c1c242647f5a4281cbfad1d8c37a721d159d738faccd271d1",
+  "existing_content_bytes": 47228,
+  "existing_controller_html_sha256": "70cf3da681631bc88c1a8bdce6a9a41b76d5788bd6d3a06dbad18275abc5eb7a",
+  "existing_controller_html_bytes": 251,
+  "planned_operations": [
+    "create or update native Code Snippet content",
+    "create or update HTML controller",
+    "associate controller to MarketCampaigns"
+  ],
+  "required_confirmation": {
+    "command": "CONFIRM_WRITE",
+    "batch_id": "new unique batch id",
+    "approved_by": "Dror Avni",
+    "source_sha256": "4fd2b6d229a4ec16681b50f7dca55e2f20810f2e557aa147233ad4426e2458c9"
+  }
+}

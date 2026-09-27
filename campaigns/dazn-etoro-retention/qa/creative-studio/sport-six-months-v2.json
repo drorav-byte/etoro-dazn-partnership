@@ -1,0 +1,14 @@
+{
+  "asset_id": "dazn-email1-mission-six-months-icon-v2",
+  "version": "v2",
+  "provider": "native_ma_transparent_crop",
+  "slot": "mission_six_months",
+  "source_assets": ["source-dazn/fiba-basketball.webp"],
+  "local_path": "campaigns/dazn-etoro-retention/assets/illustration-icons/sport-six-months-v2.png",
+  "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/sport-six-months-v2.png",
+  "bytes": 26686,
+  "sha256": "1B13DAB4AF8108B92449F30D94A38678EB33E231C687E382105768FF0194A5C2",
+  "dimensions": {"width": 256, "height": 256, "format": "png", "channels": 4},
+  "qa": {"deterministic": "PASS", "s3_http_status": 200, "kb_critique": "PENDING"},
+  "accepted": false
+}

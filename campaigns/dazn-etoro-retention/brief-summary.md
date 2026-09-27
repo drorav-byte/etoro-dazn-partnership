@@ -10,7 +10,7 @@ The first communication is DAZN-first: two months of DAZN in Germany. The €20 
 
 - Qualifying new German users can receive two months of DAZN.
 - A qualifying first deposit can trigger a €20 reward, subject to approved terms.
-- The proposed six-month challenge asks users to make a qualifying deposit/investment each month for six months, with a 10% promotional reward on the qualifying amount, capped at €500.
+- The proposed six-month challenge asks users to make a qualifying deposit/investment each month for six months, with a 10% promotional reward on the qualifying amount, capped at €300.
 - Germany-facing materials should use euros. The final qualifying base is unresolved.
 
 ## Audience and product progression
@@ -21,19 +21,20 @@ Sport is the narrative thread: build a portfolio like a team, invest one matchda
 
 ## Final first version update
 
-The offer structure is confirmed for planning: DAZN is the hero; the post-signup €20 airdrop uses a choice of nine eligible stocks or ETFs; retention is a 10% bonus on qualifying monthly deposits for six months, capped at €500 and paid manually after the six-month calculation point. A 50% trading-commission discount and zero-commission ETF are additional benefits, subject to terms and approval. The campaign is urgent for users arriving by 30 September and excludes crypto and CFDs.
+The offer structure is confirmed for planning: DAZN is the hero; the post-signup €20 first-deposit reward uses a choice of nine eligible stocks or ETFs; retention is a 10% bonus on qualifying monthly deposits for six months, capped at €300 and paid manually after the six-month calculation point. A 50% trading-commission discount and zero-commission ETF are additional benefits, subject to terms and approval. The campaign is urgent for users arriving by 30 September and excludes crypto and CFDs.
 
 Translated automation brief: because the user arrived through DAZN, they receive special benefits. They can invest €100 or more per month in eligible zero-commission ETFs using recurring investment, positioned as a set-and-forget habit, and receive a bonus equal to 10% of qualifying deposits after six months. Exact qualifying rules and approved German wording remain open.
 
-## Journey and channels
+## Four-email journey and channels — reset v2
 
-1. Acquisition email: DAZN hero, €20 reward secondary.
-2. Activation email and in-app card: complete registration, deposit, and DAZN redemption.
-3. First-investment email: explain stocks, ETFs, risk, and how to start.
-4. Monthly email/push: challenge progress and next qualifying action.
-5. Product education: recurring investments first; CopyTrader and other products later based on behaviour.
-6. DAZN expiry sequence: final-month reminders and transition to ongoing etoro value.
-7. Post-challenge email: continue the investing habit beyond the promotion.
+Three emails are sent in the first week, followed by one retention email around day 30:
+
+1. **E1, immediately after V3/qualifying deposit and coupon issuance:** “Your 2 months of DAZN and more are waiting.” Present the complete short- and long-term benefit stack, show the real coupon, and make “Copy code” then “Use on DAZN” the primary action. The etoro deposit link is secondary.
+2. **E2, day 2–3 after E1:** remind the user to use the DAZN coupon; suppress after verified redemption.
+3. **E3, day 5–7:** turn the offer into a monthly habit: eligible zero-commission ETF, recurring investment, and the six-month promotional deposit bonus, subject to approved terms.
+4. **E4, around day 30:** show progress, prompt the next monthly deposit, and introduce one beginner-friendly feature such as virtual portfolio/demo or CopyTrader with risk and history context.
+
+Email owns the complete explanation and terms. The in-app card owns the persistent checklist. Push is reserved for short, state-based reminders and must not introduce stronger claims than the email.
 
 ## Compliance boundary
 

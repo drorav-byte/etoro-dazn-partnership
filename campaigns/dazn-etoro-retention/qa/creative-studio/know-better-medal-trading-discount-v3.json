@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "asset_id": "know-better-medal-trading-discount-v3",
+  "version": 1,
+  "sha256": "f1a6ec8fcaf5082f7c7f498456be2625320f7940beba513928f6764d4523b767",
+  "campaign": "dazn-etoro-retention",
+  "segment": "germany",
+  "component": "icons-list-carded-dark-v1",
+  "slot": "trading-discount-mission-icon",
+  "asset_type": "email-icon",
+  "generation": {
+    "mode": "generate",
+    "prompt": "Premium realistic gold medal with green-and-white ribbon; brushed metal face, raised rim and edge thickness; neutral sports achievement icon; no Olympic rings, logos, text, numbers, coins, UI, or watermark; transparent background.",
+    "references": [
+      "User-provided Olympic-style medal photograph",
+      "Know Better brand asset and iconography rules"
+    ]
+  },
+  "provider": {
+    "name": "OpenAI image generation",
+    "model": "gpt-image-2",
+    "source": "User-provided Olympic-style medal reference; Know Better icon rules"
+  },
+  "file": {
+    "dimensions": [
+      256,
+      256
+    ],
+    "format": "PNG",
+    "local_path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\know-better-medal-trading-discount-v3.png",
+    "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/know-better-medal-trading-discount-v3.png"
+  },
+  "execution": {
+    "use_splinter": false,
+    "execution_source": "native_ma",
+    "fallback_reason": ""
+  },
+  "parent_version": null,
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "automated_judge": {
+    "status": "PENDING",
+    "confidence": null,
+    "scores": {},
+    "critical_failures": []
+  },
+  "kb_critique": {
+    "status": "PENDING",
+    "artifact_hash": null,
+    "scores": {},
+    "overall": null,
+    "critical_failures": []
+  },
+  "accepted": false,
+  "created_at": "2026-09-15T12:33:15.473029+00:00"
+}

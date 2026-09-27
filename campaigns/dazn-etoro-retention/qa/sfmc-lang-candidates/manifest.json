@@ -1,0 +1,72 @@
+{
+  "campaign_id": "dazn-etoro-retention",
+  "environment": "production",
+  "asset_mode": "new_LANG_assets_with_english_fallback",
+  "fallback_locale": "en-GB",
+  "locales": [
+    "de-DE",
+    "es-ES",
+    "en-GB"
+  ],
+  "campaign_tag": {
+    "name": "MarketCampaigns",
+    "id": 755
+  },
+  "package_sha256": "02664d9bada111092454547b1481e72059717bfa4a8734c2e83ab154b96e620a",
+  "assets": [
+    {
+      "name": "09072026_DAZNPartenershipE1_LANG",
+      "controller": "09072026_DAZNPartenershipE1_LANG_email",
+      "bytes": 153988,
+      "sha256": "a61a6ac22086322aab7c4d60b1bd460a478031b5789e0d717293bda5ede5dde6",
+      "anchors": 24,
+      "tracking_links": 24,
+      "blank_targets": 24,
+      "language_branches": {
+        "de-DE": 1,
+        "es-ES": 1,
+        "en-fallback": 1
+      },
+      "checks": {
+        "has_all_language_branches": true,
+        "no_local_asset_refs": true,
+        "no_semantic_sections": true,
+        "all_links_tracked": true,
+        "all_links_blank": true,
+        "dynamic_coupon": true,
+        "localized_subjects": true
+      },
+      "path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\qa\\sfmc-lang-candidates\\09072026_DAZNPartenershipE1_LANG.html"
+    },
+    {
+      "name": "09072026_DAZNPartenershipE2_LANG",
+      "controller": "09072026_DAZNPartenershipE2_LANG_email",
+      "bytes": 41491,
+      "sha256": "08456958f0cb65746bdf22739d0eedcc6d1d52f2dcb0baf37dd561e85c7e8fc7",
+      "anchors": 15,
+      "tracking_links": 15,
+      "blank_targets": 15,
+      "language_branches": {
+        "de-DE": 1,
+        "es-ES": 1,
+        "en-fallback": 1
+      },
+      "checks": {
+        "has_all_language_branches": true,
+        "no_local_asset_refs": true,
+        "no_semantic_sections": true,
+        "all_links_tracked": true,
+        "all_links_blank": true,
+        "dynamic_coupon": true,
+        "localized_subjects": true
+      },
+      "path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\qa\\sfmc-lang-candidates\\09072026_DAZNPartenershipE2_LANG.html"
+    }
+  ],
+  "not_performed": [
+    "SFMC mutation",
+    "send",
+    "schedule",
+    "journey activation"
+  ]
+}

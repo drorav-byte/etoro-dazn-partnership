@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "output": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-reward-v4.png",
+  "svg": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-reward-v4.svg",
+  "raw_svg_sha256": "a71d91d35e97d7660f7d63296d823d416e306c172fe124e0d7c7319cfcc58234",
+  "sha256": "01f198a741d0ec45b304e1e5ac35f348ea799185fc7cd351d098a969947e0b41",
+  "prompt": "Clear recognizable football icon for an email mission: a classic black-and-white soccer ball with a bold signal-green completion check overlay. Sport object must be unmistakable at 56px. No words, no logos, no team crests, no league branding, no finance symbols, transparent outside the approved dark-green rounded icon container, crisp white and signal-green monoline Know Better primitive style. Match the Emails Design System icon container exactly: 56x56, #075434 rounded-16 background, #6DFF8A monoline glyph, 2px stroke. No pale app-icon shell, no white circular badge, no text, no logo, no tiny labels.",
+  "provider": "brandclaw_icon_studio",
+  "source": "native_ma_icon_studio",
+  "selected_endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+  "attempted": [
+    {
+      "endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+      "source": "BRANDCLAW_BASE_URL",
+      "status": "success"
+    }
+  ],
+  "skipped": [],
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "generated_at": "2026-09-14T13:49:03.566910+00:00"
+}

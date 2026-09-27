@@ -1,0 +1,15 @@
+{
+  "status": "FAIL",
+  "error": "Icon Studio rasterizer failed: node:internal/modules/cjs/loader:1520\n  throw err;\n  ^\n\nError: Cannot find module 'sharp'\nRequire stack:\n- C:\\Users\\drorav\\.codex\\plugins\\cache\\etoro-marketing-automation\\marketing-automation-codex\\0.27.1\\skills\\creative-studio-agent\\scripts\\rasterize_svg.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1517:15)\n    at wrapResolveFilename (node:internal/modules/cjs/loader:1071:27)\n    at defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1095:10)\n    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1122:12)\n    at Module._load (node:internal/modules/cjs/loader:1294:5)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)\n    at Module.require (node:internal/modules/cjs/loader:1617:12)\n    at require (node:internal/modules/helpers:153:16)\n    at Object.<anonymous> (C:\\Users\\drorav\\.codex\\plugins\\cache\\etoro-marketing-automation\\marketing-automation-codex\\0.27.1\\skills\\creative-studio-agent\\scripts\\rasterize_svg.js:3:15)\n    at Module._compile (node:internal/modules/cjs/loader:1872:14) {\n  code: 'MODULE_NOT_FOUND',\n  requireStack: [\n    'C:\\\\Users\\\\drorav\\\\.codex\\\\plugins\\\\cache\\\\etoro-marketing-automation\\\\marketing-automation-codex\\\\0.27.1\\\\skills\\\\creative-studio-agent\\\\scripts\\\\rasterize_svg.js'\n  ]\n}\n\nNode.js v24.19.0",
+  "attempted": [
+    {
+      "endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+      "source": "BRANDCLAW_BASE_URL",
+      "status": "failed",
+      "error": "Icon Studio rasterizer failed: node:internal/modules/cjs/loader:1520\n  throw err;\n  ^\n\nError: Cannot find module 'sharp'\nRequire stack:\n- C:\\Users\\drorav\\.codex\\plugins\\cache\\etoro-marketing-automation\\marketing-automation-codex\\0.27.1\\skills\\creative-studio-agent\\scripts\\rasterize_svg.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1517:15)\n    at wrapResolveFilename (node:int"
+    }
+  ],
+  "skipped": [],
+  "prompt": "Minimal football competition icon for an email mission called reward already applied: a clean football with a small check mark badge, no words, no logo, no team crest, no league branding, transparent outside the approved dark-green rounded icon container, crisp white and signal-green monoline glyph, simple geometric Know Better primitive style. Match the Emails Design System icon container exactly: 56x56, #075434 rounded-16 background, #6DFF8A monoline glyph, 2px stroke. No pale app-icon shell, no white circular badge, no text, no logo, no tiny labels.",
+  "generated_at": "2026-09-14T12:01:05.572459+00:00"
+}

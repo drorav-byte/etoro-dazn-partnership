@@ -1,0 +1,15 @@
+{
+  "status": "FAIL",
+  "error": "not well-formed (invalid token): line 1, column 102",
+  "attempted": [
+    {
+      "endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+      "source": "BRANDCLAW_BASE_URL",
+      "status": "failed",
+      "error": "not well-formed (invalid token): line 1, column 102"
+    }
+  ],
+  "skipped": [],
+  "prompt": "Simple monoline football fixture icon: a calendar with six small football circles and a goal flag, green and white glyph, no words, no numerals, no logos, no team crests, no league branding, transparent outside a dark-green rounded icon container, crisp geometric Know Better email illustration. Match the Emails Design System icon container exactly: 56x56, #075434 rounded-16 background, #6DFF8A monoline glyph, 2px stroke. No pale app-icon shell, no white circular badge, no text, no logo, no tiny labels.",
+  "generated_at": "2026-09-14T12:07:13.898582+00:00"
+}

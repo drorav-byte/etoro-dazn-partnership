@@ -1,0 +1,65 @@
+{
+  "generated_at_utc": "2026-09-24T11:50:28.338358+00:00",
+  "environment": "production",
+  "account_id": "500009133",
+  "asset_mode": "new_LANG_assets_with_english_fallback",
+  "campaign_tag_name": "MarketCampaigns",
+  "campaign_tag_id": 755,
+  "campaign_tag_readback": {
+    "createdDate": "2022-07-11T07:19:35",
+    "modifiedDate": "2022-07-11T07:19:35",
+    "id": "755",
+    "name": "MarketCampaigns",
+    "description": "All financial market campaigns that are Marketing classification, like: New assets, Diversification, Earning Reports, IPO, etc...",
+    "campaignCode": "",
+    "color": "d7edad",
+    "favorite": false
+  },
+  "package_sha256": "02664d9bada111092454547b1481e72059717bfa4a8734c2e83ab154b96e620a",
+  "approval": {
+    "command": "CONFIRM_WRITE",
+    "batch_id": "dazn-etoro-20260924-003",
+    "approved_by": "Dror Avni",
+    "source_sha256": "02664d9bada111092454547b1481e72059717bfa4a8734c2e83ab154b96e620a"
+  },
+  "mutation_performed": true,
+  "assets": [
+    {
+      "name": "09072026_DAZNPartenershipE1_LANG",
+      "controller": "09072026_DAZNPartenershipE1_LANG_email",
+      "candidate_sha256": "a61a6ac22086322aab7c4d60b1bd460a478031b5789e0d717293bda5ede5dde6",
+      "candidate_bytes": 153988,
+      "existing_content_id": 421322,
+      "existing_controller_id": 421323,
+      "operation": "update",
+      "prewrite_content_sha256": "9c4ca282e869d5fab9405951ff36b7d14dc232a79924e32fba04c11a3d9e386b",
+      "prewrite_controller_sha256": "fd7fc49edcf736a2dc365202ac581641abf3d4e2bdf96a9df3a13a58004d9416",
+      "content_id": 421322,
+      "controller_id": 421323,
+      "content_operation": "updated",
+      "controller_operation": "updated",
+      "readback_content_sha256": "a61a6ac22086322aab7c4d60b1bd460a478031b5789e0d717293bda5ede5dde6",
+      "readback_controller_sha256": "fd7fc49edcf736a2dc365202ac581641abf3d4e2bdf96a9df3a13a58004d9416",
+      "campaign_association_verified": true
+    },
+    {
+      "name": "09072026_DAZNPartenershipE2_LANG",
+      "controller": "09072026_DAZNPartenershipE2_LANG_email",
+      "candidate_sha256": "08456958f0cb65746bdf22739d0eedcc6d1d52f2dcb0baf37dd561e85c7e8fc7",
+      "candidate_bytes": 41491,
+      "existing_content_id": 421324,
+      "existing_controller_id": 421325,
+      "operation": "update",
+      "prewrite_content_sha256": "4aaa86d24c3692f8cf4d9b5b08ba08cac1894aadef7ca3fbf06f280aab5e695c",
+      "prewrite_controller_sha256": "d62b1456eeea6a04dcb774912cb9a21d4faafd8cf3a8c21c5820ddf9c6c70a29",
+      "content_id": 421324,
+      "controller_id": 421325,
+      "content_operation": "updated",
+      "controller_operation": "updated",
+      "readback_content_sha256": "08456958f0cb65746bdf22739d0eedcc6d1d52f2dcb0baf37dd561e85c7e8fc7",
+      "readback_controller_sha256": "d62b1456eeea6a04dcb774912cb9a21d4faafd8cf3a8c21c5820ddf9c6c70a29",
+      "campaign_association_verified": true
+    }
+  ],
+  "send_or_activation_performed": false
+}

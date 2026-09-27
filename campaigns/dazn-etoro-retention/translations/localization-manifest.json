@@ -1,0 +1,132 @@
+{
+  "campaign_id": "dazn-etoro-retention",
+  "source_locale": "en-GB",
+  "target_locales": [
+    "de-DE",
+    "es-ES"
+  ],
+  "generated_at": "2026-09-23",
+  "glossary": {
+    "path": "C:\\Users\\drorav\\.codex\\plugins\\cache\\etoro-marketing-automation\\marketing-automation-codex\\0.27.1\\shared\\dictionaries\\global\\glossary.json",
+    "content_hash": "b360c78b54763aa7695e0c94188324dacca8645b0a786008eb1184ed106cb048",
+    "generated_at_utc": "2026-03-14T14:08:15Z",
+    "terms_used": [
+      {
+        "source_term": "CopyTrader",
+        "locale_id": "de-DE",
+        "translation": "CopyTrader"
+      },
+      {
+        "source_term": "CopyTrader",
+        "locale_id": "es-ES",
+        "translation": "CopyTrader"
+      },
+      {
+        "source_term": "Portfolio",
+        "locale_id": "de-DE",
+        "translation": "Portfolio"
+      },
+      {
+        "source_term": "Portfolio",
+        "locale_id": "es-ES",
+        "translation": "Portafolio"
+      }
+    ]
+  },
+  "translations": [
+    {
+      "email": "email-1",
+      "locale": "de-DE",
+      "file": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\translations\\email-1-de-DE.html",
+      "approved_english_native_sha256": "9f664bf09247d53c1c242647f5a4281cbfad1d8c37a721d159d738faccd271d1",
+      "english_mockup_source_sha256": "105ef9da963f3571da9fe322ea17435951a601e1f6efc4fa2d72aa843a789976",
+      "localized_source_sha256": "c5aa2c2c5ea5476b760c5a9d681f9e466a625d52155287c3a06ceb821c0c12ae",
+      "review_basis": "approved_english_master",
+      "glossary_terms_applied": [
+        {
+          "source_term": "CopyTrader",
+          "locale_id": "de-DE",
+          "translation": "CopyTrader"
+        },
+        {
+          "source_term": "Portfolio",
+          "locale_id": "de-DE",
+          "translation": "Portfolio"
+        }
+      ],
+      "compliance_status": "derived_from_approved_english_master; localized_market_qa_pending"
+    },
+    {
+      "email": "email-1",
+      "locale": "es-ES",
+      "file": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\translations\\email-1-es-ES.html",
+      "approved_english_native_sha256": "9f664bf09247d53c1c242647f5a4281cbfad1d8c37a721d159d738faccd271d1",
+      "english_mockup_source_sha256": "105ef9da963f3571da9fe322ea17435951a601e1f6efc4fa2d72aa843a789976",
+      "localized_source_sha256": "e4dcdb6b8391eeaf43243d964dc6de95ef4cbabd89f51e033b5ee0712128a3cf",
+      "review_basis": "approved_english_master",
+      "glossary_terms_applied": [
+        {
+          "source_term": "CopyTrader",
+          "locale_id": "es-ES",
+          "translation": "CopyTrader"
+        },
+        {
+          "source_term": "Portfolio",
+          "locale_id": "es-ES",
+          "translation": "Portafolio"
+        }
+      ],
+      "compliance_status": "derived_from_approved_english_master; localized_market_qa_pending"
+    },
+    {
+      "email": "email-2",
+      "locale": "de-DE",
+      "file": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\translations\\email-2-de-DE.html",
+      "approved_english_native_sha256": "8ce23d3b0b4e423d86a4eae7e0a54441d1717e6490bd26e460c4d1bbba1e9aa2",
+      "english_mockup_source_sha256": "c07713a58cdfda0738b4c6556dbb26cb91d42d8a764d6f434cb8bc797879da01",
+      "localized_source_sha256": "328cd81aacab7cffd0115af92b9f8ff834fa49f87df3ab80c8fddc0cf09cbfd3",
+      "review_basis": "english_mockup_revision",
+      "glossary_terms_applied": [
+        {
+          "source_term": "CopyTrader",
+          "locale_id": "de-DE",
+          "translation": "CopyTrader"
+        },
+        {
+          "source_term": "Portfolio",
+          "locale_id": "de-DE",
+          "translation": "Portfolio"
+        }
+      ],
+      "compliance_status": "mockup_revision_not_production_approved; localized_market_qa_pending"
+    },
+    {
+      "email": "email-2",
+      "locale": "es-ES",
+      "file": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\translations\\email-2-es-ES.html",
+      "approved_english_native_sha256": "8ce23d3b0b4e423d86a4eae7e0a54441d1717e6490bd26e460c4d1bbba1e9aa2",
+      "english_mockup_source_sha256": "c07713a58cdfda0738b4c6556dbb26cb91d42d8a764d6f434cb8bc797879da01",
+      "localized_source_sha256": "1cd47efa122376b705c2b2b131aada0e786bdc1dfefc3176a5c9d40daccc160b",
+      "review_basis": "english_mockup_revision",
+      "glossary_terms_applied": [
+        {
+          "source_term": "CopyTrader",
+          "locale_id": "es-ES",
+          "translation": "CopyTrader"
+        },
+        {
+          "source_term": "Portfolio",
+          "locale_id": "es-ES",
+          "translation": "Portafolio"
+        }
+      ],
+      "compliance_status": "mockup_revision_not_production_approved; localized_market_qa_pending"
+    }
+  ],
+  "not_performed": [
+    "SFMC upload",
+    "send",
+    "schedule",
+    "journey activation"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "output": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-coupon-v3.png",
+  "svg": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-coupon-v3.svg",
+  "raw_svg_sha256": "e4543d118c8abc45ac72d3808070c854165b0e3b0967b2ae5f081f5965856bd5",
+  "sha256": "d1bc80ea916c6b1b1b9ce1d046f39bb5898094a7d68d9393987bc7a3b6b26569",
+  "prompt": "Minimal football competition icon for an email mission called copy and use your DAZN coupon: a clean match ticket with a small football mark, no words, no logo, no team crest, no league branding, transparent outside the approved dark-green rounded icon container, crisp white and signal-green monoline glyph, simple geometric Know Better primitive style. Match the Emails Design System icon container exactly: 56x56, #075434 rounded-16 background, #6DFF8A monoline glyph, 2px stroke. No pale app-icon shell, no white circular badge, no text, no logo, no tiny labels.",
+  "provider": "brandclaw_icon_studio",
+  "source": "native_ma_icon_studio",
+  "selected_endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+  "attempted": [
+    {
+      "endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+      "source": "BRANDCLAW_BASE_URL",
+      "status": "success"
+    }
+  ],
+  "skipped": [],
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "generated_at": "2026-09-14T12:03:52.607534+00:00"
+}

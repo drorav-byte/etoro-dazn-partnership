@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "asset_id": "fiba-cup-six-months-v2",
+  "version": 1,
+  "sha256": "15b7cfdf24e17128e2abb904637dd231ead20162509e699afedb0e716e7e58df",
+  "campaign": "dazn-etoro-retention",
+  "segment": "germany",
+  "component": "icons-list-carded-dark-v1",
+  "slot": "six-month-deposit-mission-icon",
+  "asset_type": "email-icon",
+  "generation": {
+    "mode": "library",
+    "prompt": "Use the supplied FIBA cup icon crop without the surrounding text or background.",
+    "references": [
+      "User-supplied FIBA Basketball World Cup source URL"
+    ]
+  },
+  "provider": {
+    "name": "User-supplied DAZN source asset",
+    "model": "source-asset",
+    "source": "FIBA Basketball World Cup source image supplied by user; cleaned transparent cup crop"
+  },
+  "file": {
+    "dimensions": [
+      256,
+      256
+    ],
+    "format": "PNG",
+    "local_path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\fiba-cup-six-months-v2.png",
+    "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/fiba-cup-six-months-v2.png"
+  },
+  "execution": {
+    "use_splinter": false,
+    "execution_source": "native_ma",
+    "fallback_reason": ""
+  },
+  "parent_version": null,
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "automated_judge": {
+    "status": "PENDING",
+    "confidence": null,
+    "scores": {},
+    "critical_failures": []
+  },
+  "kb_critique": {
+    "status": "PENDING",
+    "artifact_hash": null,
+    "scores": {},
+    "overall": null,
+    "critical_failures": []
+  },
+  "accepted": false,
+  "created_at": "2026-09-15T11:17:07.944536+00:00"
+}

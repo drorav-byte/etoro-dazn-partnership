@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "output": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-discount-v3.png",
+  "svg": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-discount-v3.svg",
+  "raw_svg_sha256": "ddd4d128519fe4d1aca24b6d16f309594dd614f5816e96ce549722294776d67d",
+  "sha256": "d84eea7e3b147459c12d6599b42f54fc1ca19cf65b7c2d74c57329cb161c0790",
+  "prompt": "Minimal football competition icon for an email mission called use your trading discount: a clean referee whistle beside a small discount badge, no words, no readable numerals, no logo, no team crest, no league branding, transparent outside the approved dark-green rounded icon container, crisp white and signal-green monoline glyph, simple geometric Know Better primitive style. Match the Emails Design System icon container exactly: 56x56, #075434 rounded-16 background, #6DFF8A monoline glyph, 2px stroke. No pale app-icon shell, no white circular badge, no text, no logo, no tiny labels.",
+  "provider": "brandclaw_icon_studio",
+  "source": "native_ma_icon_studio",
+  "selected_endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+  "attempted": [
+    {
+      "endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+      "source": "BRANDCLAW_BASE_URL",
+      "status": "success"
+    }
+  ],
+  "skipped": [],
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "generated_at": "2026-09-14T12:05:19.802269+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "generated_at_utc": "2026-09-24T12:24:40.028458+00:00",
+  "environment": "production",
+  "account_id": "500009133",
+  "campaign_tag_name": "MarketCampaigns",
+  "campaign_tag_id": "755",
+  "campaign_tag_readback": {
+    "createdDate": "2022-07-11T07:19:35",
+    "modifiedDate": "2022-07-11T07:19:35",
+    "id": "755",
+    "name": "MarketCampaigns",
+    "description": "All financial market campaigns that are Marketing classification, like: New assets, Diversification, Earning Reports, IPO, etc...",
+    "campaignCode": "",
+    "color": "d7edad",
+    "favorite": false
+  },
+  "mutation_performed": true,
+  "assets": [
+    {
+      "name": "09072026_DAZNPartenershipE1",
+      "controller": "09072026_DAZNPartenershipE1_email",
+      "existing_content_id": 419416,
+      "existing_controller_id": 419417,
+      "candidate_sha256": "bb182e3fe71022b82187ee6335fd06439023cbff844da2ce69f7dd3d81f865ec",
+      "candidate_bytes": 50838,
+      "prewrite_content_sha256": "9f664bf09247d53c1c242647f5a4281cbfad1d8c37a721d159d738faccd271d1",
+      "prewrite_controller_sha256": "70cf3da681631bc88c1a8bdce6a9a41b76d5788bd6d3a06dbad18275abc5eb7a",
+      "content_id": 419416,
+      "controller_id": 419417,
+      "content_operation": "updated",
+      "controller_operation": "updated",
+      "readback_content_sha256": "bb182e3fe71022b82187ee6335fd06439023cbff844da2ce69f7dd3d81f865ec",
+      "readback_controller_sha256": "70cf3da681631bc88c1a8bdce6a9a41b76d5788bd6d3a06dbad18275abc5eb7a",
+      "campaign_association_verified": true
+    }
+  ],
+  "send_or_activation_performed": false
+}

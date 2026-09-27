@@ -1,0 +1,22 @@
+{
+  "content_id": 421288,
+  "controller_id": 421289,
+  "bytes": 13551,
+  "table_tags": 10,
+  "section_tags": 0,
+  "article_tags": 0,
+  "style_tags": 1,
+  "local_asset_refs": 0,
+  "anchors": 5,
+  "blank_targets": 5,
+  "tracking_links": 5,
+  "direct_https_hrefs": 0,
+  "dynamic_coupon": true,
+  "controller_wiring": true,
+  "campaign_tag": {
+    "name": "MarketCampaigns",
+    "id": 755
+  },
+  "campaign_association_verified": true,
+  "send_or_activation_performed": false
+}

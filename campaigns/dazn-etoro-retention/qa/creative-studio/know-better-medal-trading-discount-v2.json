@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "asset_id": "know-better-medal-trading-discount-v2",
+  "version": 1,
+  "sha256": "f139aa2ac4eeacc2a565348de7f1554338b6c54b281a05a5c1e60b00020b3b7d",
+  "campaign": "dazn-etoro-retention",
+  "segment": "germany",
+  "component": "icons-list-carded-dark-v1",
+  "slot": "trading-discount-mission-icon",
+  "asset_type": "email-icon",
+  "generation": {
+    "mode": "generate",
+    "prompt": "Flat Know Better medal based on the supplied medal reference: ribbon, round medal, clean diagonal split, signal green and warm paper with restrained gold, no Olympic rings, logos, text, texture, gradients, 3D, UI, checks, coins, or percentages.",
+    "references": [
+      "User-provided medal reference image",
+      "Know Better brand asset and iconography rules"
+    ]
+  },
+  "provider": {
+    "name": "OpenAI image generation",
+    "model": "gpt-image-2",
+    "source": "user-provided medal photograph as structural reference; Know Better icon rules"
+  },
+  "file": {
+    "dimensions": [
+      256,
+      256
+    ],
+    "format": "PNG",
+    "local_path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\know-better-medal-trading-discount-v2.png",
+    "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/know-better-medal-trading-discount-v2.png"
+  },
+  "execution": {
+    "use_splinter": false,
+    "execution_source": "native_ma",
+    "fallback_reason": ""
+  },
+  "parent_version": null,
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "automated_judge": {
+    "status": "PENDING",
+    "confidence": null,
+    "scores": {},
+    "critical_failures": []
+  },
+  "kb_critique": {
+    "status": "PENDING",
+    "artifact_hash": null,
+    "scores": {},
+    "overall": null,
+    "critical_failures": []
+  },
+  "accepted": false,
+  "created_at": "2026-09-15T11:05:21.221994+00:00"
+}

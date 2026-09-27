@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "asset_id": "dazn-email1-mission-reward-icon",
+  "version": 1,
+  "sha256": "0b93139ea802d51ba5da4beaeadbbe6d0af446bf914546537c58d6abfa882a05",
+  "campaign": "dazn-etoro-retention",
+  "segment": "germany-football-fans",
+  "component": "mission-list",
+  "slot": "mission-reward-applied",
+  "asset_type": "icon",
+  "generation": {
+    "mode": "generate",
+    "prompt": "Football with completion check cue for the reward already applied mission; no words or logos; Know Better monoline icon.",
+    "references": [
+      "https://www.dazn.com/en-IL/competition/Competition:6by3h89i2eykc341oz7lv1ddd"
+    ]
+  },
+  "provider": {
+    "name": "brandclaw_icon_studio",
+    "model": "",
+    "source": "native_ma_icon_studio"
+  },
+  "file": {
+    "dimensions": [
+      256,
+      256
+    ],
+    "format": "PNG",
+    "local_path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-reward-v3.png",
+    "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/football-reward-v3.png"
+  },
+  "execution": {
+    "use_splinter": false,
+    "execution_source": "native_ma",
+    "fallback_reason": ""
+  },
+  "parent_version": null,
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "automated_judge": {
+    "status": "PENDING",
+    "confidence": null,
+    "scores": {},
+    "critical_failures": []
+  },
+  "kb_critique": {
+    "status": "PENDING",
+    "artifact_hash": null,
+    "scores": {},
+    "overall": null,
+    "critical_failures": []
+  },
+  "accepted": false,
+  "created_at": "2026-09-14T12:19:42.171651+00:00"
+}

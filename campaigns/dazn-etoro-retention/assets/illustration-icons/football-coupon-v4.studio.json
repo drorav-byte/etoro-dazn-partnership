@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "output": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-coupon-v4.png",
+  "svg": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-coupon-v4.svg",
+  "raw_svg_sha256": "c87d0a8836b7659fc2b40c407ad9fbb0c100f0ec73f900bceff13fad9b7d5260",
+  "sha256": "d00fab9525e4a3901fef26049892e813c05832b7cb4412cc326a5822da0eabee",
+  "prompt": "Clear recognizable football match-ticket icon for an email mission: a perforated event ticket with a large classic soccer ball in the center. Sport object must be unmistakable at 56px. No words, no logos, no team crests, no league branding, no finance symbols, transparent outside the approved dark-green rounded icon container, crisp white and signal-green monoline Know Better primitive style. Match the Emails Design System icon container exactly: 56x56, #075434 rounded-16 background, #6DFF8A monoline glyph, 2px stroke. No pale app-icon shell, no white circular badge, no text, no logo, no tiny labels.",
+  "provider": "brandclaw_icon_studio",
+  "source": "native_ma_icon_studio",
+  "selected_endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+  "attempted": [
+    {
+      "endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+      "source": "BRANDCLAW_BASE_URL",
+      "status": "success"
+    }
+  ],
+  "skipped": [],
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "generated_at": "2026-09-14T13:49:59.002313+00:00"
+}

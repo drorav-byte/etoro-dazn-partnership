@@ -1,15 +1,58 @@
 {
   "campaign_id": "dazn-etoro-retention",
   "campaign_name": "DAZN x etoro Germany Retention",
+  "journey_version": "reset-v2-four-email-journey",
   "task_name": "Acquire and retain German sport fans through a DAZN-led etoro journey",
   "channels": ["email", "push_notification", "in_app_card"],
   "background": "The first batch contains 7,000 users in Germany. DAZN is the acquisition hero; the etoro product journey must convert reward-led sign-ups into active, retained investors.",
   "target_audience": "7,000 German sport fans, including users who may be new to investing and are not necessarily from a trading background.",
-  "key_message": "Join etoro for two months of DAZN, receive the qualifying first-deposit reward, and build an investing habit through a six-month sport-led journey.",
-  "call_to_action": "Pick a stock & deposit",
-  "email_subject": "2 months of DAZN subscription with etoro",
-  "email_preheader": "Qualify for your DAZN benefit and a €20 first-deposit reward.",
+  "key_message": "Get two months of DAZN, understand the short- and long-term benefits available through etoro, and build an investing habit through a six-month sport-led journey.",
+  "call_to_action": "Copy your DAZN code, then use on DAZN",
+  "email_subject": "Your 2 months of DAZN and more are waiting",
+  "email_preheader": "Your €20 reward is applied. Claim your DAZN benefit and see what comes next.",
+  "email_opening_paragraph": "Your €20 reward is already applied. Copy your DAZN coupon to claim a 2-month free DAZN subscription, use your trading discount and complete the six-month deposit mission to receive all qualifying benefits.",
   "deposit_deep_link": "https://www.etoro.com/deposit",
+  "email_journey": [
+    {
+      "id": "E1",
+      "name": "The benefits are waiting",
+      "timing": "Immediately after V3/qualifying deposit and actual DAZN coupon issuance; target within the first registration week",
+      "objective": "Present the complete benefit stack and drive the next qualifying action",
+      "hero_message": "Get 2 months of DAZN plus more benefits from etoro",
+      "primary_action": "Copy your DAZN code, then use on DAZN; secondary: pick a stock & deposit",
+      "short_term_benefits": ["Two months of DAZN", "€20 first-deposit reward when verified as applied", "50% trading-commission discount subject to terms"],
+      "long_term_benefits": ["10% promotional bonus on qualifying deposits over six months, up to the approved cap", "Eligible zero-commission ETFs", "Recurring investment as a monthly routine"]
+    },
+    {
+      "id": "E2",
+      "name": "Claim your DAZN access",
+      "timing": "Day 2–3 after E1; suppress after verified DAZN redemption",
+      "objective": "Help the user copy the coupon and use it on DAZN",
+      "hero_message": "Your 2 months of DAZN are ready to claim",
+      "primary_action": "Use on DAZN"
+    },
+    {
+      "id": "E3",
+      "name": "Build the six-month run",
+      "timing": "Day 5–7; suppress setup instruction when already completed",
+      "objective": "Turn the offer into a repeatable monthly deposit habit",
+      "hero_message": "Keep the benefits moving: deposit €100+ each month",
+      "primary_action": "Set up recurring investment"
+    },
+    {
+      "id": "E4",
+      "name": "Keep your place in the season",
+      "timing": "Around day 30 or the next monthly deposit window",
+      "objective": "Reinforce progress and introduce simple product education",
+      "hero_message": "Your next month is part of the plan",
+      "primary_action": "Make this month’s deposit"
+    }
+  ],
+  "sfmc_ui_campaign_tag": "MarketCampaigns",
+  "tracking_campaign_group": "MarketCampaigns",
+  "tracking_campaign_subgroup": "Marketing",
+  "tracking_task_id": "09072026",
+  "tracking_task_name": "DAZNPartenershipE1",
   "kpi": ["qualifying registrations", "first deposits", "DAZN redemptions", "month-2 and month-6 active investors", "continued deposits", "recurring-investment adoption", "challenge completion", "post-offer retention"],
   "references": [
     "DAZN Germany plan and pricing page: https://www.dazn.com/de-DE/help/articles/16184063399709-dazn-plane-und-preise",
@@ -17,14 +60,25 @@
     "etoro Germany CopyTrader: https://www.etoro.com/de/copytrader/"
   ],
   "sizes_and_specs": {"email": "Responsive HTML; German localisation required", "push_notification": "Short mobile notification copy", "in_app_card": "Persistent campaign progress card"},
+  "non_investor_value_layer": [
+    "Start with a manageable amount where current German product terms allow; do not generalize minimums across instruments.",
+    "Explain relevant fees plainly and promote low-fee options only when approved for Germany.",
+    "Present eligible zero-commission ETFs and recurring investment as a simple monthly routine, not a performance promise.",
+    "Introduce CopyTrader with risk and history context, without advice or guaranteed-outcome language.",
+    "Offer virtual portfolio or demo mode before users commit real funds.",
+    "Mention interest on eligible cash balances only after current rate, eligibility and terms are confirmed."
+  ],
   "text_version_by_entity": {"etoro": "Use lowercase etoro in campaign-facing copy, pending brand/legal confirmation.", "dazn": "DAZN"},
   "revisions": [],
   "issues": [
+    "E1 is gated on V3/qualifying deposit and actual DAZN coupon issuance; define a separate pre-qualification reminder if non-qualified registrants also need email contact.",
     "Confirm the exact DAZN plan, eligibility, redemption flow, duration, and partner terms.",
     "Confirm whether the €20 first-deposit reward is an airdrop, cash credit, or another reward type.",
     "The six-month 10% mechanic must be legally approved in Germany and described as promotional cashback/reward, not guaranteed investment performance.",
     "Confirm whether the qualifying base is deposit amount, invested amount, or both; confirm cap, timing, reversals, and tax treatment.",
-    "Confirm German availability and approved positioning for fixed-income products and all promoted assets."
+    "Confirm German availability and approved positioning for fixed-income products and all promoted assets.",
+    "Confirm the DAZN coupon-code source field, delivery timing, one-time-use rules, redemption URL and fallback handling before the email is sent.",
+    "Confirm the current 10% bonus cap: the working offer architecture says €500, while an earlier headline suggestion said €300."
   ],
   "handoff": {"next": "segments-builder", "status": "planning-ready"}
 }

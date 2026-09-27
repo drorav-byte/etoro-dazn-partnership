@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "asset_id": "medal-trading-discount-v1",
+  "version": 1,
+  "sha256": "41af5419f3c1766787d6c073a0e00f7fd76eaa95e5749115691bfb082757fd77",
+  "campaign": "dazn-etoro-retention",
+  "segment": "germany",
+  "component": "icons-list-carded-dark-v1",
+  "slot": "trading-discount-mission-icon",
+  "asset_type": "email-icon",
+  "generation": {
+    "mode": "generate",
+    "prompt": "Clean medal icon for the 50% trading discount mission; transparent background; no text, logos, badges, checks, or percentages.",
+    "references": [
+      "User screenshot of the mission card layout"
+    ]
+  },
+  "provider": {
+    "name": "OpenAI image generation",
+    "model": "gpt-image-2",
+    "source": "user-requested-medal"
+  },
+  "file": {
+    "dimensions": [
+      256,
+      256
+    ],
+    "format": "PNG",
+    "local_path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\medal-trading-discount-v1.png",
+    "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/medal-trading-discount-v1.png"
+  },
+  "execution": {
+    "use_splinter": false,
+    "execution_source": "native_ma",
+    "fallback_reason": ""
+  },
+  "parent_version": null,
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "automated_judge": {
+    "status": "PENDING",
+    "confidence": null,
+    "scores": {},
+    "critical_failures": []
+  },
+  "kb_critique": {
+    "status": "PENDING",
+    "artifact_hash": null,
+    "scores": {},
+    "overall": null,
+    "critical_failures": []
+  },
+  "accepted": false,
+  "created_at": "2026-09-15T06:53:15.188507+00:00"
+}

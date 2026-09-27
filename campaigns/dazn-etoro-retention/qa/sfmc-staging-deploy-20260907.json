@@ -1,0 +1,38 @@
+{
+  "generated_at_utc": "2026-09-08T07:49:59.631440+00:00",
+  "environment": "production",
+  "account_id": "500009133",
+  "campaign_tag_name": "MarketCampaigns",
+  "tracking_campaign_group": "MarketCampaigns",
+  "tracking_campaign_subgroup": "Marketing",
+  "task_id": "09072026",
+  "task_name": "DAZNPartenershipE1",
+  "freeform_name": "09072026_DAZNPartenershipE1",
+  "controller_name": "09072026_DAZNPartenershipE1_email",
+  "native_content_sha256": "5814bfe7cbd79aea6168bafae9bc6e8ad519242a835cb4e7f45ff3b1087ad52d",
+  "mutation_performed": false,
+  "campaign_tag_id": "755",
+  "campaign_tag_readback": {
+    "createdDate": "2022-07-11T07:19:35",
+    "modifiedDate": "2022-07-11T07:19:35",
+    "id": "755",
+    "name": "MarketCampaigns",
+    "description": "All financial market campaigns that are Marketing classification, like: New assets, Diversification, Earning Reports, IPO, etc...",
+    "campaignCode": "",
+    "color": "d7edad",
+    "favorite": false
+  },
+  "existing_content": {
+    "id": 419416,
+    "type": "codesnippetblock"
+  },
+  "existing_controller": {
+    "id": 419417,
+    "type": "htmlemail"
+  },
+  "planned_operations": [
+    "create or update native Code Snippet content",
+    "create or update HTML controller",
+    "associate controller to MarketCampaigns"
+  ]
+}

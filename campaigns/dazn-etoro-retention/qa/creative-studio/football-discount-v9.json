@@ -1,0 +1,14 @@
+{
+  "asset_id": "dazn-email1-mission-discount-icon-v9",
+  "version": "v9",
+  "provider": "native_ma_transparent_crop",
+  "slot": "mission_discount",
+  "source_assets": ["source-dazn/nfl-symbol.webp"],
+  "local_path": "campaigns/dazn-etoro-retention/assets/illustration-icons/football-discount-v9.png",
+  "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/football-discount-v9.png",
+  "bytes": 32790,
+  "sha256": "734D9374A900D44FFC45BFA1DC71B1C9A8342BC53DA3A63329A87937A98245C9",
+  "dimensions": {"width": 256, "height": 256, "format": "png", "channels": 4},
+  "qa": {"deterministic": "PASS", "s3_http_status": 200, "kb_critique": "PENDING"},
+  "accepted": false
+}

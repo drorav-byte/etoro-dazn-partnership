@@ -1,74 +1,104 @@
-# Journey Plan
+# DAZN x etoro Germany — four-email retention journey
 
-| Stage | User need | DAZN-led message | etoro value/action | Primary channel |
+**Version:** Reset v2 — planning draft
+**Audience:** 7,000 German DAZN sport fans who register with etoro; includes freemium and churned-user test cells and people with little or no investing experience.
+**Primary objective:** Turn the DAZN-led acquisition into a completed benefit journey and a repeat-deposit habit.
+**Primary message:** Two months of DAZN is the hero. The etoro rewards and product features explain why the user should complete the next action and keep going.
+
+## Journey principle
+
+The user should understand the whole value exchange in the first email, with the DAZN coupon available immediately, then receive one clear action at a time:
+
+1. See the full benefits and understand what is available now versus after qualifying actions.
+2. Claim the DAZN subscription by copying the coupon code in Email 1 and using it on DAZN.
+3. Build the six-month deposit habit with recurring investment and an eligible zero-commission ETF.
+4. Return for the next monthly action and discover simple, non-intimidating etoro features.
+
+The first week contains three emails. The fourth email is deliberately later so it reinforces a behaviour rather than repeating the acquisition message.
+
+## Four-email plan
+
+| Email | Timing and entry rule | Job to be done | Main message | Primary action | Secondary value layer |
+|---|---|---|---|---|---|
+| **E1 — The benefits are waiting** | Immediately when the DAZN coupon is issued after the user completes the required V3/qualifying deposit step; target this within the first registration week | Make the full offer legible and get the user to claim DAZN | **Get 2 months of DAZN plus more benefits from etoro** | Primary: `Copy your DAZN code`, then `Use on DAZN` → `https://www.dazn.com/`. Secondary: `Pick a stock & deposit` → `https://www.etoro.com/deposit` | Coupon code, €20 first-deposit reward status, 50% trading-commission discount, six-month deposit bonus, eligible zero-commission ETFs, and recurring investment |
+| **E2 — Use your DAZN benefit** | Day 2–3 after E1; suppress after a verified DAZN redemption | Remove redemption friction and return the user to the benefit | **Your 2 months of DAZN are ready to use** | `Use on DAZN` → `https://www.dazn.com/` | Re-state the coupon expiry and show the next etoro benefit action without repeating the full offer |
+| **E3 — Build the six-month run** | Day 5–7 after E1; suppress if the user already completed the six-month setup | Convert reward interest into a repeatable monthly action | **Keep the benefits moving: deposit €100+ each month** | `Set up recurring investment` → final approved recurring-investment destination | Eligible zero-commission ETFs, 10% promotional bonus on qualifying deposits after six months, and 50% discount subject to terms |
+| **E4 — Keep your place in the season** | Around day 30 after E1 or the next monthly deposit window; branch on progress | Reinforce the habit and introduce the simplest next product idea | **Your next month is part of the plan** | `Make this month’s deposit` → `https://www.etoro.com/deposit` | Progress-to-six-month view; virtual portfolio/demo; CopyTrader with risk/history context; interest on eligible balances only if current German terms are approved |
+
+### E1 content architecture: strongest message first
+
+E1 must not make the user assemble the offer from several emails. The hierarchy is:
+
+1. **DAZN hero and coupon:** “Get 2 months of DAZN.” Show the issued coupon code in the first email with copy instructions.
+2. **Short-term benefits:** “Your €20 first-deposit reward is applied” when true, plus the 50% trading-commission discount, each with its eligibility/status clearly labelled.
+3. **Long-term benefit:** “Keep depositing for six months and you may receive a promotional bonus equal to 10% of qualifying deposits, up to the approved cap, paid manually after the calculation period.”
+4. **Simple route:** “Pick an eligible stock or ETF, deposit, then choose a monthly routine.”
+5. **Beginner reassurance:** eligible zero-commission ETFs, recurring investment, low-fee information, virtual portfolio/demo, and CopyTrader education are supporting explanations—not competing heroes.
+
+Suggested E1 subject line: **Your 2 months of DAZN and more are waiting**
+Suggested E1 preheader: **Your €20 reward is applied. Claim your DAZN benefit and see what comes next.**
+Suggested E1 opening paragraph: **Your €20 reward is already applied. Copy your DAZN coupon to claim a 2-month free DAZN subscription, use your trading discount and complete the six-month deposit mission to receive all qualifying benefits.**
+
+The coupon-code block belongs in E1. Never show a placeholder code in a live email. E1 must be gated on a real, non-expired coupon value.
+
+## Message and channel rules
+
+- Keep **DAZN and the two-month subscription** in the subject, preheader, hero, or first visible module of the journey.
+- Use football and matchday language as a light narrative thread: “next fixture”, “keep your place”, “build the habit”. Do not use sports language to imply investment performance or certainty.
+- Make the state explicit: `Completed`, `Ready to claim`, `Next step`, or `Available after six months`.
+- Use “reward” in customer-facing copy; do not use the internal term “airdrop”.
+- The DAZN subscription is claimed by copying the coupon code in E1 and going to DAZN. It is the email’s primary action; the etoro deposit link is secondary.
+- The €20 reward is described as already applied only for users whose qualifying reward has actually been granted.
+- Do not mention crypto or CFDs.
+- Avoid “guaranteed 10% returns”, “risk-free”, “nothing to lose”, or any wording that turns the promotional bonus into investment performance.
+- Use lowercase `etoro` in campaign-facing copy pending the final brand/legal sign-off already recorded for this project.
+
+## Branching and suppression
+
+The journey needs a small state model rather than four identical sends:
+
+| User state | E1 | E2 | E3 | E4 |
 |---|---|---|---|---|
-| Acquire | A tangible sports benefit | Get two months of DAZN | Join etoro and review terms | Email |
-| Activate | Clear next steps | Claim your DAZN access | Make qualifying first deposit; receive €20 reward if eligible | Email + in-app |
-| Start | Confidence | Your season starts here | Explore an eligible stock or ETF and learn the basics | Email + in-app |
-| Habit | A repeatable routine | Invest one matchday at a time | Set up recurring investment | Email + push |
-| Explore | Social proof without advice | See how other investors build their line-up | Review CopyTrader profiles, risk and history | Email + in-app |
-| Progress | Motivation to continue | Stay in the game | Track monthly qualifying progress | Email + push + in-app |
-| Expiry | Avoid a cliff edge | DAZN offer nearing the final whistle | Continue investing beyond the offer | Email + push |
-| Retain | Ongoing value | The season continues | Keep a recurring plan or explore suitable products | Email + in-app |
+| Deposit and V3 complete; DAZN code issued | Full offer plus visible coupon | Use DAZN benefit | Six-month habit setup | Progress and next deposit |
+| DAZN code issued and redeemed | Full offer plus coupon and redeemed state | Skip redemption reminder | Six-month habit setup | Progress and next deposit |
+| Recurring investment already active | Full offer; acknowledge setup | DAZN redemption | Skip setup instruction; show progress | Monthly progress |
+| Reward/reversal or eligibility issue | Hold journey and resolve state | Suppress promotional claim until resolved | Suppress bonus claim | Resolve or exit |
 
-## Recommended email set
+Users who register but have not yet completed the action that issues the DAZN coupon need a separate pre-qualification reminder or service flow; they must not enter this four-email journey with a missing or placeholder code. Email sends should also be suppressed after a verified opt-out, fraud/compliance hold, unresolved reward reversal, or confirmed ineligibility. A DAZN redemption event and qualifying deposit should update the user state so later emails do not repeat completed actions.
 
-1. DAZN offer launch
-2. Welcome and redemption instructions
-3. €20 first-deposit confirmation
-4. First investment: stocks and ETFs for beginners
-5. Six-month challenge introduction
-6. Month 1 qualifying-action reminder
-7. Recurring investment explainer
-8. CopyTrader education
-9. Month 3 progress update
-10. Diversification education
-11. Month 5 DAZN expiry reminder
-12. Challenge completion and reward timing
-13. Post-challenge retention
+## Supporting channels
 
-## Example sport-led copy direction
+- **Email:** owns the complete explanation, coupon instructions, terms, and long-form education.
+- **In-app card:** persistent checklist showing what is `Completed`, what is `Ready to claim`, and the next qualifying action. It should deep-link to the relevant etoro destination.
+- **Push notification:** short reminders only after a known action is pending, such as a code ready to claim or the next monthly deposit window. Push must not introduce a new offer or make a stronger claim than the email.
 
-- “Your DAZN access is ready. Now build your investing game plan.”
-- “Build your portfolio one matchday at a time.”
-- “Don’t rely on one player. Learn how diversification works.”
-- “See how other investors build their line-up before deciding what fits you.”
-- “Your DAZN offer is nearing the final whistle. Your investing journey can continue.”
+## Product progression for non-investors
 
-## Final first version offer and automation flow
+Introduce one concept at a time, always after the DAZN reason to return:
 
-### Confirmed offer
+- Start with an eligible stock or ETF and a manageable amount where current German terms allow.
+- Explain eligible zero-commission ETFs and the relevant fee schedule in plain language.
+- Offer recurring investment as a set-and-forget monthly routine, not an outcome promise.
+- Offer virtual portfolio/demo before real funds where the product flow supports it.
+- Introduce CopyTrader as something to review, with risk and history visible; it is not advice and does not guarantee results.
+- Mention interest only on eligible balances after the current rate, eligibility, and German wording are approved.
 
-- Hero: two months of free DAZN for a qualifying new German etoro client.
-- Activation: after signup, a pop-up offers a choice of nine eligible stocks or ETFs for the €20 first-deposit airdrop.
-- Retention: a 10% bonus on qualifying deposits each month for six months, capped at €500. The bonus is paid manually and calculated six months after the qualifying deposit.
-- Additional benefits: a 50% trading-commission discount and a zero-commission ETF proposition, subject to final terms and German approval.
-- Urgency: exclusive benefits for users who arrive by 30 September.
-- Do not mention crypto or CFDs in this campaign.
+## Measurement
 
-### Current flow without automation
+Measure the journey by state transition, not opens alone:
 
-1. Users register and immediately receive a pop-up with the airdrop choice.
-2. After the user reaches V3 status and deposits, the selected airdrop is granted.
+- E1 delivery, open, click, and first qualifying deposit.
+- E2 coupon-code copy, DAZN redemption, and time from code issue to redemption.
+- E3 recurring-investment setup, eligible ETF selection, and month-1 qualifying deposit.
+- E4 month-2 and month-6 deposits, active-investor status, and post-offer retention.
+- Compare freemium and churned users with an approved control group; do not assume the same cadence or product message will win for both.
 
-### Proposed automation flow
+## Open decisions and blockers
 
-1. DAZN markets the offer to its users.
-2. The user arrives through the DAZN partnership and signs up to etoro.
-3. The post-signup pop-up presents the €20 airdrop choice from nine eligible stocks or ETFs.
-4. The user reaches V3 and makes the qualifying deposit; the selected airdrop is granted.
-5. A triggered email confirms the DAZN benefits and introduces the retention programme.
-6. The email encourages a monthly deposit of €100 or more into an eligible zero-commission ETF, with recurring investment positioned as a set-and-forget habit.
-7. Monthly reminders track six-month progress and connect the habit to football language and exclusive benefits.
-8. Six months after the qualifying deposit period, the 10% bonus is calculated and paid manually, subject to final terms.
-
-### Localisation, audience test and workplan
-
-- Germany and Spain require separate offer panels, eligibility and legal treatment; Germany is the confirmed launch market in this version.
-- SFMC tracking metadata for this email: campaign `MarketCampaigns Marketing`; task ID `09072026`; task name `DAZNPartenershipE1` (preserve the supplied spelling).
-- Test freemium users against churned users with a defined control group.
-- Product panel: Dror, in progress; finalized notes and exact panel specification required, with a ready draft targeted for early next week.
-- Design: engaged Sunday to build from the panel and creative direction.
-- Launch email: Shiloh, Ben and David; include DAZN, exclusive benefits, 50% commission discount, up to €500 over six months, football language, 30 September deadline, and no crypto/CFD references.
-- Offer and legal: Ofer to close DAZN terms, German bonus approval, and tax treatment of the €20 airdrop.
-- Localization and measurement must be finalized before panel and email launch.
+- Confirm the journey entry event: E1 is now planned as a gated send after V3/qualifying deposit and actual DAZN coupon issuance. Build a separate pre-qualification flow if non-qualified registrants also need email contact.
+- Confirm the DAZN plan, code-generation event, code source field, one-time-use rules, redemption URL, expiry, and fallback handling.
+- Confirm the €20 reward’s qualifying amount, reward type, timing, reversals, and tax treatment.
+- Confirm the 10% bonus qualifying base, current cap (€300 as the current working offer cap), calculation date, manual-payment process, reversals, and German approval.
+- Confirm the 50% commission discount scope, duration, eligible instruments, and approved German wording.
+- Confirm which zero-commission ETFs, minimum amounts, recurring-investment flow, CopyTrader/demo surfaces, and interest-on-balance terms are available to this audience in Germany.
+- Confirm the final E1/E2/E3/E4 send windows, frequency caps, control design, and SFMC campaign/asset naming before implementation.

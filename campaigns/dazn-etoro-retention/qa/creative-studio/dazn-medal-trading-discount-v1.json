@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "asset_id": "dazn-medal-trading-discount-v1",
+  "version": 1,
+  "sha256": "34ca110377300ac8c557d6e79f5c6b439ee4f9e88dfdf4a8f30ae96b34c5619a",
+  "campaign": "dazn-etoro-retention",
+  "segment": "germany",
+  "component": "icons-list-carded-dark-v1",
+  "slot": "trading-discount-mission-icon",
+  "asset_type": "email-icon",
+  "generation": {
+    "mode": "generate",
+    "prompt": "Flat professional sports-league mark treatment for a winner medal with a football center; black, white and restrained red; crisp geometric silhouette; transparent outer background; designed to remain clear at 64px; no text, logos, DAZN wordmark, checkmarks, percentages, UI, gradients, 3D, glow, shadows, or generic eToro green.",
+    "references": [
+      "User-supplied DAZN Bundesliga, international football, NFL, and FIBA marks as style references",
+      "DAZN sport icon and competition pages supplied by the user"
+    ]
+  },
+  "provider": {
+    "name": "OpenAI image generation",
+    "model": "gpt-image-2",
+    "source": "user-supplied DAZN sport icon style references"
+  },
+  "file": {
+    "dimensions": [
+      256,
+      256
+    ],
+    "format": "PNG",
+    "local_path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\dazn-medal-trading-discount-v1.png",
+    "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/dazn-medal-trading-discount-v1.png"
+  },
+  "execution": {
+    "use_splinter": false,
+    "execution_source": "native_ma",
+    "fallback_reason": ""
+  },
+  "parent_version": null,
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "automated_judge": {
+    "status": "PENDING",
+    "confidence": null,
+    "scores": {},
+    "critical_failures": []
+  },
+  "kb_critique": {
+    "status": "PENDING",
+    "artifact_hash": null,
+    "scores": {},
+    "overall": null,
+    "critical_failures": []
+  },
+  "accepted": false,
+  "created_at": "2026-09-15T08:10:06.407841+00:00"
+}

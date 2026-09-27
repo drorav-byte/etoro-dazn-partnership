@@ -1,0 +1,44 @@
+{
+  "generated_from": {
+    "email1": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\DAZN-etoro-Germany-email-1-component-composed-v1.html",
+    "email2": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\DAZN-etoro-Germany-email-2-reminder-v1.html"
+  },
+  "campaign_tag": {
+    "name": "MarketCampaigns",
+    "group": "MarketCampaigns",
+    "subgroup": "Marketing"
+  },
+  "assets": [
+    {
+      "name": "09072026_DAZNPartenershipE1",
+      "controller": "09072026_DAZNPartenershipE1_email",
+      "existing_reference": {
+        "content_id": 419416,
+        "controller_id": 419417
+      },
+      "native_sha256": "bb182e3fe71022b82187ee6335fd06439023cbff844da2ce69f7dd3d81f865ec",
+      "bytes": 50838
+    },
+    {
+      "name": "09072026_DAZNPartenershipE2",
+      "controller": "09072026_DAZNPartenershipE2_email",
+      "existing_reference": "SFMC readback required before upload",
+      "native_sha256": "1214d358564b083d7ff471c2343913f48689f6c2bc906add7ddef7218cf10a4c",
+      "bytes": 13554
+    }
+  ],
+  "planned_writes": [
+    "upload/update hosted S3 assets",
+    "create or update Email 1 Code Snippet and controller",
+    "resolve and create/update Email 2 Code Snippet and controller",
+    "associate both controllers to the read-back MarketCampaigns tag"
+  ],
+  "not_performed": [
+    "S3 upload",
+    "SFMC mutation",
+    "send",
+    "schedule",
+    "journey activation"
+  ],
+  "qa_gate": "local responsive pass complete; native BaseTemplate/controller preview still required"
+}

@@ -1,0 +1,15 @@
+{
+  "status": "FAIL",
+  "error": "not well-formed (invalid token): line 1, column 102",
+  "attempted": [
+    {
+      "endpoint": "https://brandclaw.clawz.org/api/icon-studio/generate",
+      "source": "BRANDCLAW_BASE_URL",
+      "status": "failed",
+      "error": "not well-formed (invalid token): line 1, column 102"
+    }
+  ],
+  "skipped": [],
+  "prompt": "Clear recognizable football referee icon for an email mission: a referee whistle with a small soccer ball beside it and a simple circular discount mark, no words and no readable numerals. Sport object must be unmistakable at 56px. No logos, no team crests, no league branding, no finance UI, transparent outside the approved dark-green rounded icon container, crisp white and signal-green monoline Know Better primitive style. Match the Emails Design System icon container exactly: 56x56, #075434 rounded-16 background, #6DFF8A monoline glyph, 2px stroke. No pale app-icon shell, no white circular badge, no text, no logo, no tiny labels.",
+  "generated_at": "2026-09-14T13:50:51.064894+00:00"
+}

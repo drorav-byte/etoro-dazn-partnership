@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "asset_id": "fiba-cup-six-months-v3",
+  "version": 1,
+  "sha256": "5490f1757b7851752592644fb01fa15bfe861997af24f00f49042654f3716aed",
+  "campaign": "dazn-etoro-retention",
+  "segment": "germany",
+  "component": "icons-list-carded-dark-v1",
+  "slot": "six-month-deposit-mission-icon",
+  "asset_type": "email-icon",
+  "generation": {
+    "mode": "generate",
+    "prompt": "Realistic premium gold trophy based on the supplied FIBA cup silhouette; brushed gold, raised rim, edge thickness, restrained deep-red inner accent, black base, transparent background; no FIBA wordmark, logos, text, numbers, coins, UI, or watermark.",
+    "references": [
+      "User-supplied FIBA cup source image",
+      "Approved know-better-medal-trading-discount-v3 asset"
+    ]
+  },
+  "provider": {
+    "name": "OpenAI image generation",
+    "model": "gpt-image-2",
+    "source": "User-supplied FIBA cup silhouette and approved realistic medal style reference"
+  },
+  "file": {
+    "dimensions": [
+      256,
+      256
+    ],
+    "format": "PNG",
+    "local_path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\fiba-cup-six-months-v3.png",
+    "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/fiba-cup-six-months-v3.png"
+  },
+  "execution": {
+    "use_splinter": false,
+    "execution_source": "native_ma",
+    "fallback_reason": ""
+  },
+  "parent_version": null,
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "automated_judge": {
+    "status": "PENDING",
+    "confidence": null,
+    "scores": {},
+    "critical_failures": []
+  },
+  "kb_critique": {
+    "status": "PENDING",
+    "artifact_hash": null,
+    "scores": {},
+    "overall": null,
+    "critical_failures": []
+  },
+  "accepted": false,
+  "created_at": "2026-09-15T12:39:01.521034+00:00"
+}

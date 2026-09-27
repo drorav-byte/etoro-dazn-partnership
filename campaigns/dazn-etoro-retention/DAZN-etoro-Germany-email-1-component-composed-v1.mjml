@@ -1,0 +1,311 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>Get 2 Months of DAZN FREE + Up to €300 in Rewards!</mj-title>
+    <mj-preview>Your €20 reward is applied. Claim your DAZN benefit and see what comes next.</mj-preview>
+    <mj-breakpoint width="640px" />
+    <mj-attributes>
+      <mj-all font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" />
+      <mj-body width="640px" background-color="#10110E" />
+      <mj-section background-color="#10110E" />
+      <mj-text color="#ECEAD1" />
+      <mj-image padding="0" />
+    </mj-attributes>
+    <mj-style>
+      .dzn-shell,
+      .dzn-shell > table,
+      .dzn-dark,
+      .dzn-dark > table,
+      [data-ogsc] .dzn-shell,
+      [data-ogsc] .dzn-shell > table,
+      [data-ogsc] .dzn-dark,
+      [data-ogsc] .dzn-dark > table,
+      u+.body .dzn-shell,
+      u+.body .dzn-shell > table,
+      u+.body .dzn-dark,
+      u+.body .dzn-dark > table {
+        background: #10110E !important;
+        background-color: #10110E !important;
+        background-image: linear-gradient(#10110E, #10110E) !important;
+      }
+
+      .dzn-hero,
+      .dzn-hero > table,
+      [data-ogsc] .dzn-hero,
+      [data-ogsc] .dzn-hero > table,
+      u+.body .dzn-hero,
+      u+.body .dzn-hero > table {
+        background: #000000 !important;
+        background-color: #000000 !important;
+        background-image: linear-gradient(#000000, #000000) !important;
+      }
+
+      .dzn-card,
+      .dzn-card-inner,
+      [data-ogsc] .dzn-card,
+      [data-ogsc] .dzn-card-inner,
+      u+.body .dzn-card,
+      u+.body .dzn-card-inner {
+        background: #10110E !important;
+        background-color: #10110E !important;
+        background-image: linear-gradient(180deg, #10110E 52%, #0F2E1F 100%) !important;
+        border-collapse: separate !important;
+      }
+
+      .dzn-heading,
+      .dzn-heading span,
+      .dzn-body,
+      .dzn-body span,
+      .dzn-card-title,
+      .dzn-card-title span,
+      .dzn-card-copy,
+      .dzn-card-copy span,
+      [data-ogsc] .dzn-heading,
+      [data-ogsc] .dzn-heading span,
+      [data-ogsc] .dzn-body,
+      [data-ogsc] .dzn-body span,
+      [data-ogsc] .dzn-card-title,
+      [data-ogsc] .dzn-card-title span,
+      [data-ogsc] .dzn-card-copy,
+      [data-ogsc] .dzn-card-copy span,
+      u+.body .dzn-heading,
+      u+.body .dzn-heading span,
+      u+.body .dzn-body,
+      u+.body .dzn-body span,
+      u+.body .dzn-card-title,
+      u+.body .dzn-card-title span,
+      u+.body .dzn-card-copy,
+      u+.body .dzn-card-copy span {
+        color: #ECEAD1 !important;
+        -webkit-text-fill-color: #ECEAD1 !important;
+        mso-color-alt: #ECEAD1;
+      }
+
+      .dzn-muted,
+      .dzn-muted span,
+      [data-ogsc] .dzn-muted,
+      [data-ogsc] .dzn-muted span,
+      u+.body .dzn-muted,
+      u+.body .dzn-muted span {
+        color: #BDBBA7 !important;
+        -webkit-text-fill-color: #ECEAD1 !important;
+        mso-color-alt: #BDBBA7;
+      }
+
+      .dzn-green,
+      .dzn-green span,
+      [data-ogsc] .dzn-green,
+      [data-ogsc] .dzn-green span,
+      u+.body .dzn-green,
+      u+.body .dzn-green span {
+        color: #6DFF8A !important;
+        -webkit-text-fill-color: #6DFF8A !important;
+        mso-color-alt: #6DFF8A;
+      }
+
+      .dzn-button a,
+      [data-ogsc] .dzn-button a,
+      u+.body .dzn-button a {
+        background: #57CC6E !important;
+        background-color: #57CC6E !important;
+        color: #10110E !important;
+        -webkit-text-fill-color: #10110E !important;
+        mso-color-alt: #10110E;
+      }
+
+      .dzn-bullet-copy,
+      .dzn-bullet-copy span,
+      [data-ogsc] .dzn-bullet-copy,
+      [data-ogsc] .dzn-bullet-copy span,
+      u+.body .dzn-bullet-copy,
+      u+.body .dzn-bullet-copy span {
+        color: #ECEAD1 !important;
+        -webkit-text-fill-color: #ECEAD1 !important;
+        mso-color-alt: #ECEAD1;
+      }
+
+      .dzn-bullet,
+      [data-ogsc] .dzn-bullet,
+      u+.body .dzn-bullet {
+        color: #6DFF8A !important;
+        -webkit-text-fill-color: #6DFF8A !important;
+        mso-color-alt: #6DFF8A;
+      }
+
+      .dzn-header,
+      .dzn-header > table,
+      [data-ogsc] .dzn-header,
+      [data-ogsc] .dzn-header > table,
+      u+.body .dzn-header,
+      u+.body .dzn-header > table {
+        background: #242635 !important;
+        background-color: #242635 !important;
+        background-image: linear-gradient(#242635, #242635) !important;
+      }
+
+      .dzn-header-partner,
+      .dzn-header-partner span,
+      [data-ogsc] .dzn-header-partner,
+      [data-ogsc] .dzn-header-partner span,
+      u+.body .dzn-header-partner,
+      u+.body .dzn-header-partner span {
+        color: #BDBBA7 !important;
+        -webkit-text-fill-color: #BDBBA7 !important;
+        mso-color-alt: #BDBBA7;
+      }
+
+      @media only screen and (max-width:640px) {
+        .dzn-gutter > table > tbody > tr > td { padding-left: 16px !important; padding-right: 16px !important; }
+        .dzn-header > table > tbody > tr > td { padding-left: 16px !important; padding-right: 16px !important; }
+        .dzn-hero-gutter > table > tbody > tr > td { padding: 28px 16px 32px !important; }
+        .dzn-card-inner { padding: 22px 20px 22px !important; }
+        .dzn-card-icon { width: 60px !important; max-width: 60px !important; }
+        .dzn-card-title { font-size: 17px !important; line-height: 25px !important; }
+        .dzn-card-copy { font-size: 15px !important; line-height: 23px !important; }
+        .dzn-h1 { font-size: 42px !important; line-height: 44px !important; letter-spacing: -1.5px !important; }
+        .dzn-coupon-code { font-size: 18px !important; line-height: 24px !important; }
+      }
+
+      @media only screen and (max-width:480px) {
+        .dzn-card-inner { height: 204px !important; min-height: 204px !important; }
+      }
+
+      @media only screen and (max-width:380px) {
+        .dzn-card-inner { height: 264px !important; min-height: 264px !important; }
+      }
+
+      @media only screen and (max-width:340px) {
+        .dzn-card-inner { height: 312px !important; min-height: 312px !important; }
+      }
+
+      @media only screen and (max-width:260px) {
+        .dzn-card-inner { height: 454px !important; min-height: 454px !important; }
+      }
+
+      @media only screen and (max-width:480px) {
+        .dzn-header-partner { display: none !important; }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#10110E" css-class="dzn-shell">
+    <mj-section background-color="#242635" padding="22px 40px" css-class="dzn-header">
+      <mj-column padding="0">
+        <mj-table padding="0" role="presentation">
+          <tr>
+            <td align="left" valign="middle" style="padding:0;vertical-align:middle;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                <tr>
+                  <td align="left" valign="middle" style="padding:0;vertical-align:middle;"><img src="https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/etoro-logo-official.png?v=1" width="112" height="27" alt="etoro" style="display:block;width:112px;height:27px;border:0;" /></td>
+                  <td width="1" valign="middle" style="width:1px;padding:0 16px;vertical-align:middle;"><div style="width:1px;height:28px;background:#5B5E57;background-color:#5B5E57;font-size:0;line-height:0;">&nbsp;</div></td>
+                  <td width="44" valign="middle" style="width:44px;padding:0;vertical-align:middle;"><img src="https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/dazn-logo-clean.svg?v=4" width="42" height="42" alt="DAZN" style="display:block;width:42px;height:42px;border:0;" /></td>
+                </tr>
+              </table>
+            </td>
+            <td class="dzn-header-partner" align="right" valign="middle" style="padding:0 0 0 16px;text-align:right;vertical-align:middle;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;line-height:16px;letter-spacing:1px;color:#BDBBA7;text-transform:uppercase;">
+              <span style="color:#BDBBA7;">AN EXCLUSIVE<br />PARTNERSHIP</span>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#10110E" padding="0" css-class="dzn-shell">
+      <mj-column padding="0">
+        <mj-image src="https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/dazn-germany-football-headpic.png?v=1" alt="German football players" width="640px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000000" padding="34px 40px 36px" css-class="dzn-hero dzn-hero-gutter">
+      <mj-column padding="0">
+        <mj-text css-class="dzn-green" padding="0" font-size="11px" line-height="15px" letter-spacing="1.8px" font-weight="700" color="#6DFF8A">YOUR BENEFITS &nbsp;•&nbsp; READY TO CLAIM</mj-text>
+        <mj-text css-class="dzn-heading dzn-h1" padding="18px 0 16px" font-size="52px" line-height="52px" letter-spacing="-2px" font-weight="700" color="#ECEAD1">Get 2 Months of DAZN FREE + Up to €300 in Rewards!</mj-text>
+        <mj-text css-class="dzn-muted" padding="0 0 22px" font-size="16px" line-height="23px" color="#BDBBA7">Your €20 free share reward has already been applied. Copy your DAZN coupon to enjoy 2 months free, use your trading discount, and complete the 6 month deposit mission to unlock all eligible rewards.</mj-text>
+        <mj-table padding="0" role="presentation">
+          <tr><td style="padding:0;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="dzn-coupon" style="width:100%;background:#0F2E1F;background-color:#0F2E1F;border-collapse:separate;border:1px solid #5B5E57;border-radius:14px;overflow:hidden;">
+              <tr><td style="padding:22px 24px 24px;">
+                <div class="dzn-green" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;line-height:15px;letter-spacing:1.4px;font-weight:700;color:#6DFF8A;text-transform:uppercase;">1 · Claim your DAZN subscription</div>
+                <div class="dzn-heading" style="padding-top:7px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:26px;line-height:30px;font-weight:700;color:#ECEAD1;">Copy your DAZN coupon</div>
+                <div class="dzn-muted" style="padding-top:8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;line-height:22px;color:#BDBBA7;">Copy the code below, then go to DAZN and use it to claim your two-month subscription.</div>
+                <div class="dzn-coupon-code" data-coupon-field="DAZN_CouponCode" style="margin-top:15px;padding:14px 16px;background:#242635;border:1px dashed #6DFF8A;border-radius:8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:20px;line-height:26px;font-weight:700;letter-spacing:1px;color:#ECEAD1;word-break:break-all;">DAZN-XXXX-XXXX</div>
+                <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-top:16px;border-collapse:separate;">
+                  <tr><td class="dzn-button" bgcolor="#57CC6E" style="border-radius:24px;background:#57CC6E;background-color:#57CC6E;"><a alias="go_to_dazn_coupon_redemption" href="https://www.dazn.com/" target="_blank" style="display:block;padding:13px 24px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;line-height:20px;font-weight:700;color:#10110E;text-decoration:none;border-radius:24px;">Use on DAZN</a></td></tr>
+                </table>
+              </td></tr>
+            </table>
+          </td></tr>
+        </mj-table>
+        <mj-text css-class="dzn-muted" padding="14px 0 0" font-size="11px" line-height="16px" color="#BDBBA7">Coupon code shown for layout only. The live email must render the issued, non-expired code for the eligible user.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10110E" padding="26px 40px 18px" css-class="dzn-shell dzn-gutter">
+      <mj-column padding="0">
+        <mj-text css-class="dzn-heading" padding="0 0 8px" font-size="27px" line-height="31px" letter-spacing="-0.5px" font-weight="700" color="#ECEAD1">New to investing? Good to know!</mj-text>
+        <mj-text css-class="dzn-heading" padding="0 0 14px" font-size="16px" line-height="23px" font-weight="700" color="#ECEAD1">Start small and explore at your own pace:</mj-text>
+        <mj-table padding="0" role="presentation">
+          <tr><td width="16" valign="top" style="width:16px;padding:0 8px 10px 0;font-family:Arial,sans-serif;font-size:18px;line-height:23px;color:#6DFF8A;">&#8226;</td><td class="dzn-bullet-copy" valign="top" style="padding:0 0 10px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:23px;color:#ECEAD1;">Invest from €50 with <a alias="learn_fractional_shares" href="https://www.etoro.com/discover/markets/stocks" target="_blank" style="color:#ECEAD1;text-decoration:underline;">fractional shares</a>.</td></tr>
+          <tr><td width="16" valign="top" style="width:16px;padding:0 8px 10px 0;font-family:Arial,sans-serif;font-size:18px;line-height:23px;color:#6DFF8A;">&#8226;</td><td class="dzn-bullet-copy" valign="top" style="padding:0 0 10px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:23px;color:#ECEAD1;">Pay zero commission on <a alias="explore_etfs" href="https://www.etoro.com/discover/markets/etf?theme=light&amp;mainRegion=Europe%20Developed,Europe%20Emerging&amp;lang=en" target="_blank" style="color:#ECEAD1;text-decoration:underline;">ETFs</a>.*</td></tr>
+          <tr><td width="16" valign="top" style="width:16px;padding:0 8px 10px 0;font-family:Arial,sans-serif;font-size:18px;line-height:23px;color:#6DFF8A;">&#8226;</td><td class="dzn-bullet-copy" valign="top" style="padding:0 0 10px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:23px;color:#ECEAD1;">Practice risk-free with a virtual portfolio.</td></tr>
+          <tr><td width="16" valign="top" style="width:16px;padding:0 8px 10px 0;font-family:Arial,sans-serif;font-size:18px;line-height:23px;color:#6DFF8A;">&#8226;</td><td class="dzn-bullet-copy" valign="top" style="padding:0 0 10px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:23px;color:#ECEAD1;">Automatically copy experienced investors with <a alias="explore_copytrader" href="https://www.etoro.com/discover/people" target="_blank" style="color:#ECEAD1;text-decoration:underline;">CopyTrader™</a>.*</td></tr>
+          <tr><td width="16" valign="top" style="width:16px;padding:0 8px 0 0;font-family:Arial,sans-serif;font-size:18px;line-height:23px;color:#6DFF8A;">&#8226;</td><td class="dzn-bullet-copy" valign="top" style="padding:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:23px;color:#ECEAD1;">Join a regulated, Nasdaq-listed platform founded in 2007.</td></tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10110E" padding="30px 40px 18px" css-class="dzn-shell dzn-gutter">
+      <mj-column padding="0">
+        <mj-text css-class="dzn-green" padding="0" font-size="11px" line-height="15px" letter-spacing="1.8px" font-weight="700" color="#6DFF8A">YOUR MATCHDAY STARTS HERE</mj-text>
+        <mj-text css-class="dzn-heading" padding="10px 0 9px" font-size="31px" line-height="34px" letter-spacing="-1px" font-weight="700" color="#ECEAD1">Complete the matchday missions</mj-text>
+        <mj-text css-class="dzn-muted" padding="0 0 22px" font-size="16px" line-height="23px" color="#BDBBA7">Some benefits are already in play. The rest are waiting for your next move.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10110E" padding="0 40px 16px" css-class="dzn-shell dzn-gutter">
+      <mj-column padding="0">
+        <mj-table padding="0" role="presentation">
+          <tr><td style="padding:0;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="dzn-card" style="width:100%;background:#10110E;background-color:#10110E;background-image:linear-gradient(180deg,#10110E 52%,#0F2E1F 100%);border-collapse:separate;border-radius:14px;overflow:hidden;">
+            <tr><td class="dzn-card-inner" height="174" style="height:174px;padding:24px 24px 22px;border:1px solid #5B5E57;border-radius:14px;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;"><tr>
+                <td class="dzn-card-icon" width="64" valign="top" style="width:64px;padding:0 12px 0 0;"><img src="https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/football-reward-v8.png?v=3" width="64" height="64" alt="" style="display:block;width:64px;height:64px;border:0;border-radius:8px;" /></td>
+                <td valign="middle"><div class="dzn-green" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;line-height:15px;letter-spacing:1.2px;font-weight:700;color:#6DFF8A;text-transform:uppercase;">Completed</div><div class="dzn-card-title" style="padding-top:5px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:18px;line-height:25px;font-weight:700;color:#ECEAD1;">€20 reward already applied</div></td>
+              </tr><tr><td colspan="2" class="dzn-card-copy" style="padding-top:10px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;line-height:23px;color:#BDBBA7;">Your first-deposit reward was applied through the signup flow. Nothing else is needed for this step.</td></tr></table>
+            </td></tr>
+            </table>
+          </td></tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10110E" padding="0 40px 16px" css-class="dzn-shell dzn-gutter">
+      <mj-column padding="0">
+        <mj-table padding="0" role="presentation"><tr><td style="padding:0;"><table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="dzn-card" style="width:100%;background:#10110E;background-color:#10110E;background-image:linear-gradient(180deg,#10110E 52%,#0F2E1F 100%);border-collapse:separate;border-radius:14px;overflow:hidden;"><tr><td class="dzn-card-inner" height="174" style="height:174px;padding:24px 24px 22px;border:1px solid #5B5E57;border-radius:14px;"><table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;"><tr><td class="dzn-card-icon" width="64" valign="top" style="width:64px;padding:0 12px 0 0;"><img src="https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/football-coupon-v8.png?v=3" width="64" height="64" alt="" style="display:block;width:64px;height:64px;border:0;border-radius:8px;" /></td><td valign="middle"><div class="dzn-green" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;line-height:15px;letter-spacing:1.2px;font-weight:700;color:#6DFF8A;text-transform:uppercase;">Claim</div><div class="dzn-card-title" style="padding-top:5px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:18px;line-height:25px;font-weight:700;color:#ECEAD1;">Copy and use your DAZN coupon</div></td></tr><tr><td colspan="2" class="dzn-card-copy" style="padding-top:10px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;line-height:23px;color:#BDBBA7;">Copy the code above and use it on DAZN to claim your two-month subscription.</td></tr></table></td></tr></table></td></tr></mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10110E" padding="0 40px 16px" css-class="dzn-shell dzn-gutter">
+      <mj-column padding="0">
+        <mj-table padding="0" role="presentation"><tr><td style="padding:0;"><table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="dzn-card" style="width:100%;background:#10110E;background-color:#10110E;background-image:linear-gradient(180deg,#10110E 52%,#0F2E1F 100%);border-collapse:separate;border-radius:14px;overflow:hidden;"><tr><td class="dzn-card-inner" height="174" style="height:174px;padding:24px 24px 22px;border:1px solid #5B5E57;border-radius:14px;"><table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;"><tr><td class="dzn-card-icon" width="64" valign="top" style="width:64px;padding:0 12px 0 0;"><img src="https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/know-better-medal-trading-discount-v3.png?v=1" width="64" height="64" alt="Medal" style="display:block;width:64px;height:64px;border:0;border-radius:8px;" /></td><td valign="middle"><div class="dzn-green" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;line-height:15px;letter-spacing:1.2px;font-weight:700;color:#6DFF8A;text-transform:uppercase;">Use</div><div class="dzn-card-title" style="padding-top:5px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:18px;line-height:25px;font-weight:700;color:#ECEAD1;">Use your 50% trading discount</div></td></tr><tr><td colspan="2" class="dzn-card-copy" style="padding-top:10px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;line-height:23px;color:#BDBBA7;">Apply your exclusive trading-commission discount to eligible activity, subject to the full terms.</td></tr></table></td></tr></table></td></tr></mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10110E" padding="0 40px 18px" css-class="dzn-shell dzn-gutter">
+      <mj-column padding="0">
+        <mj-table padding="0" role="presentation"><tr><td style="padding:0;"><table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="dzn-card" style="width:100%;background:#10110E;background-color:#10110E;background-image:linear-gradient(180deg,#10110E 52%,#0F2E1F 100%);border-collapse:separate;border-radius:14px;overflow:hidden;"><tr><td class="dzn-card-inner" height="174" style="height:174px;padding:24px 24px 22px;border:1px solid #5B5E57;border-radius:14px;"><table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;"><tr><td class="dzn-card-icon" width="64" valign="top" style="width:64px;padding:0 12px 0 0;"><img src="https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/fiba-cup-six-months-v3.png?v=1" width="64" height="64" alt="FIBA cup" style="display:block;width:64px;height:64px;border:0;border-radius:8px;" /></td><td valign="middle"><div class="dzn-green" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;line-height:15px;letter-spacing:1.2px;font-weight:700;color:#6DFF8A;text-transform:uppercase;">Build</div><div class="dzn-card-title" style="padding-top:5px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:18px;line-height:25px;font-weight:700;color:#ECEAD1;">Complete the 6-month deposit mission</div></td></tr><tr><td colspan="2" class="dzn-card-copy" style="padding-top:10px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;line-height:23px;color:#BDBBA7;">Deposit €100 or more each month into an eligible zero-commission ETF using recurring investment. After 6 months, qualifying deposits can receive a 10% promotional bonus, capped at €300 and paid manually.</td></tr></table></td></tr></table></td></tr></mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10110E" padding="0 40px 34px" css-class="dzn-shell dzn-gutter">
+      <mj-column padding="0">
+        <mj-text padding="0" align="left" css-class="dzn-cta-wrap"><a class="dzn-cta-link" alias="start_six_month_deposit_mission" href="https://www.etoro.com/deposit" target="_blank" style="display:inline-block;padding:13px 24px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;line-height:20px;font-weight:700;color:#10110E;text-decoration:none;border-radius:24px;background:#57CC6E;background-color:#57CC6E;">Start the 6-month mission</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10110E" padding="24px 40px 32px" css-class="dzn-shell dzn-gutter">
+      <mj-column padding="0">
+        <mj-text css-class="dzn-green" padding="0 0 10px" font-size="11px" line-height="15px" letter-spacing="1.2px" font-weight="700" color="#6DFF8A">ARRIVE BY 30 SEPTEMBER</mj-text>
+        <mj-text css-class="dzn-muted" padding="0" font-size="11px" line-height="17px" color="#BDBBA7">Benefits are subject to eligibility and full terms. The 6-month benefit is a promotional bonus based on qualifying deposits, calculated after the applicable period and paid manually. Investments can go down as well as up and your capital is at risk. Product availability and German wording require approval. Concept mockup, not approved customer-facing copy.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+

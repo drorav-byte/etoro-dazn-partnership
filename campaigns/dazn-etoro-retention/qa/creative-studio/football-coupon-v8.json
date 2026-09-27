@@ -1,0 +1,14 @@
+{
+  "asset_id": "dazn-email1-mission-coupon-icon-v8",
+  "version": "v8",
+  "provider": "native_ma_transparent_crop",
+  "slot": "mission_coupon",
+  "source_assets": ["source-dazn/international-football.webp"],
+  "local_path": "campaigns/dazn-etoro-retention/assets/illustration-icons/football-coupon-v8.png",
+  "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/football-coupon-v8.png",
+  "bytes": 54532,
+  "sha256": "C8886A9F2BB2647377BB86F75B7DC7D8A0869FF7BD90333B1AEB55F56B21B6CB",
+  "dimensions": {"width": 256, "height": 256, "format": "png", "channels": 4},
+  "qa": {"deterministic": "PASS", "s3_http_status": 200, "kb_critique": "PENDING"},
+  "accepted": false
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "asset_id": "dazn-email1-mission-discount-icon-v6",
+  "version": 1,
+  "sha256": "5a2af0cae4b4e0025ff511310982e5fb01064932bdf510465ddc26e0e5ef8697",
+  "campaign": "dazn-etoro-retention",
+  "segment": "germany-football-fans",
+  "component": "mission-list",
+  "slot": "mission-trading-discount",
+  "asset_type": "icon",
+  "generation": {
+    "mode": "generate",
+    "prompt": "Explicit football referee whistle with a soccer ball for trading discount; sport object must be unmistakable at 56px; no words or logos.",
+    "references": [
+      "https://www.dazn.com/en-IL/competition/Competition:6by3h89i2eykc341oz7lv1ddd"
+    ]
+  },
+  "provider": {
+    "name": "native_manual_fallback",
+    "model": "",
+    "source": "native_ma_fallback"
+  },
+  "file": {
+    "dimensions": [
+      256,
+      256
+    ],
+    "format": "PNG",
+    "local_path": "C:\\Users\\drorav\\OneDrive - globaltrad\\Documents\\ChatGPT\\DAZN Partnership\\campaigns\\dazn-etoro-retention\\assets\\illustration-icons\\football-discount-v6.png",
+    "s3_url": "https://etoro-production.s3.eu-west-1.amazonaws.com/e-marketing/MarketingAutomation/AI-Generated/campaigns/dazn-etoro-retention/illustration-icons/football-discount-v6.png"
+  },
+  "execution": {
+    "use_splinter": false,
+    "execution_source": "native_ma_fallback",
+    "fallback_reason": "Provider output remained abstract at 56px; replaced with explicit whistle/football construction."
+  },
+  "parent_version": null,
+  "deterministic_qa": {
+    "status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "format": "PNG",
+    "dimensions": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  "automated_judge": {
+    "status": "PENDING",
+    "confidence": null,
+    "scores": {},
+    "critical_failures": []
+  },
+  "kb_critique": {
+    "status": "PENDING",
+    "artifact_hash": null,
+    "scores": {},
+    "overall": null,
+    "critical_failures": []
+  },
+  "accepted": false,
+  "created_at": "2026-09-14T13:59:19.853327+00:00"
+}
